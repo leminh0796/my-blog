@@ -22,8 +22,9 @@ title: 🏖️ Minh Mát Mẻ
 email: tlminh.comsci@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Mình là Minh một Software Engineer đang học tập và làm việc tại TP.HCM. Đây là nơi mình chia sẻ những kiến thức mà mình học được từ mọi nơi và từ sai lầm của bản thân. Hi vọng là nó có ích cho mọi người.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/my-blog/" # the subpath of your site, e.g. /blog
+domain: leminh0796.github.io
+url: "https://leminh0796.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: leminh0796
 
 # Build settings
